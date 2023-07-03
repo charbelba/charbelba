@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**charbelba/charbelba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi My name is Charbel Bou Abdo
+Front End Developer | Founder @ThinkFrim
+I am a diligent Front End Developer with professional experience in Computer technician. Proficient communicator in both English and Arabic, skilled in developing plans, Teamwork, and content creation
 
-Here are some ideas to get you started:
+🌍  I'm based in Beirut
+envelope  You can contact me at charbelbouadbo4@gmail.com
+Skills
+JavaScript Python HTML5 React JQuery CSS3 Bootstrap TailwindCSS Material UI NodeJS Express MongoDB MySQL Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Socials
+  
+
+Badges
+My GitHub Stats
+
+Aram-961's GitHub stats
